@@ -1,0 +1,18 @@
+[DEFAULT]
+user = Moderator
+password = password
+user_agent = /r/Diablo Weekly Bot Poster (PRAW; contact /u/xiphirx or /u/listen2)
+subreddit = diabloxiphirx
+
+[LOOT]
+title = Official Weekly Look Thread of Awesomeness
+week_num = 40
+previous_submission = 1dgx5d
+
+[QUEST]
+title = Thursday Help Desk (Ask your Stupid Questions here)
+week_num = 6
+
+[GEAR]
+title = Saturday Help on Items and Techniques (Gear Checks)
+week_num = 6
